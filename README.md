@@ -1,4 +1,4 @@
-# Human Resource Management System
+# AUT Internship Report
 
 This repository contains the code and documentation for a simple Human Resource Management System, developed as part of a university internship project in Summer 2021. The system aims to streamline HR processes and improve employee management within an organization.
 
